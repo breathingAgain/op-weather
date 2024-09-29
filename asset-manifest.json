@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/op-weather/static/css/main.34e5f4f6.css",
+    "main.js": "/op-weather/static/js/main.99b2d9c9.js",
+    "static/media/cloud.png": "/op-weather/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/op-weather/index.html",
+    "main.34e5f4f6.css.map": "/op-weather/static/css/main.34e5f4f6.css.map",
+    "main.99b2d9c9.js.map": "/op-weather/static/js/main.99b2d9c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34e5f4f6.css",
+    "static/js/main.99b2d9c9.js"
+  ]
+}
